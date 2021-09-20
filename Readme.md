@@ -34,7 +34,7 @@ Você pode notar também que existem algumas outras informações abaixo dessas,
 
 Agora vamos para o que interessa, que é a personalização do nosso perfil.
 
-Primeira coisa que fazemos é criar um repositório com o nome do nosso usuário no github. O meu por exemplo é `rafaballerini`.
+Primeira coisa que fazemos é criar um repositório com o nome do nosso usuário no github. O meu por exemplo é [`rafaballerini`](https://github.com/rafaballerini/rafaballerini).
 
 Logo que você cria esse repositório já aparece uma mensagem do próprio github dizendo que ele é especial.
 
