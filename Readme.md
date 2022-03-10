@@ -97,8 +97,7 @@ Código
 https://github.com/anmol098/anmol098
 
 Arte própria
-https://github.com/stephenajulu/stephena
-julu
+https://github.com/stephenajulu/stephenajulu
 https://github.com/DennisHartrampf/DennisHartrampf
 
 Gifs
