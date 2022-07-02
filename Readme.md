@@ -147,3 +147,4 @@ https://github.com/techytushar/random-memer
 Quotes
 https://github.com/PiyushSuthar/github-readme-quotes
 
+Muito bom o video
